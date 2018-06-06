@@ -6,7 +6,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # Compiled output
-lib/
 .rpt2_cache/
 
 # Deps
